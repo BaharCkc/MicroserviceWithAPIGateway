@@ -1,0 +1,12 @@
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net6.0\Reservation.API.Models.deps.json
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net6.0\Reservation.API.Models.dll
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net6.0\Reservation.API.Models.pdb
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.csproj.AssemblyReference.cache
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.dll
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\refint\Reservation.API.Models.dll
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.pdb
+C:\Users\bahar.cakici\source\repos\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net6.0\ref\Reservation.API.Models.dll
